@@ -102,6 +102,7 @@
 
 - **PFI (Policy Fit / Priority Index)** — *입법 수요 종합 점수*  
   - 결합식(예시):  
+
 $$
 \text{PFI}_t = \alpha \cdot \text{PI}_t + \beta \cdot \text{II}_t + \gamma \cdot \text{MBI}_t
 $$
